@@ -3,7 +3,7 @@ bindie.js
 
 bindie.js is a small project to bind array methods that doesn't work at Internet Explorer and a few more to help you on others browsers.
 
-METHODS THAT DOES'T EXIST ONLY AT IE
+METHODS THAT DOESN'T EXIST ONLY AT IE
 ------------------------------------
 
  * indexOf (returns the first index of a searched item, or -1 if none is found)
@@ -15,7 +15,7 @@ METHODS THAT DOES'T EXIST ONLY AT IE
  * some (returs true if at least one item in the array statisfies the provided function)
 
 
-METHODS THAT DOES'T EXIST ON ANY BROWSER
+METHODS THAT DOESN'T EXIST ON ANY BROWSER
 ----------------------------------------
 
  * isempty (returns true if the array doesn't have any item)
